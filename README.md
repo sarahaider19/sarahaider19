@@ -1,4 +1,4 @@
-Hi 👋 My name is Sara Haider
+Sara Haider
 ============================
 
 Data Analyst
