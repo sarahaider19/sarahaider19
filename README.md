@@ -6,7 +6,7 @@ Data Analyst
 
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [sarahaider\_@hotmail.com](mailto:sarahaider_@hotmail.com)
-*   🧠  I'm learning Entry to Data analysis through a Data Skills bootcamp### Skills 
+*   🧠  I'm learning Entry to Data analysis through a Data Skills bootcamp
 ### Skills
 
 <p align="left">
