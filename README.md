@@ -4,7 +4,7 @@ Sara Haider
 Entry-Level/Junior Data Analyst
 ------------
 
-*   🧠  Completed a 2-month bootcamp focused on core data skills including data analysis, cleaning, and visualization using Excel, MYSQL, and Power BI. Gained hands-on experience working with datasets, building reports, and drawing insights to support decision-making.
+*   Completed a 2-month bootcamp focused on core data skills including data analysis, cleaning, and visualization using Excel, MYSQL, and Power BI. Gained hands-on experience working with datasets, building reports, and drawing insights to support decision-making.
 *   Topics covered: Excel, Tableau, Power BI, SQL/MYSQL, Cloud Azure, Python
 *   Studied a Computer Science degree covering core areas like programming, software development, databases, web development, and computer systems. Gained practical skills through hands on projects and coursework, including UX-design, coding a game, and final year project development. Built a solid foundation in both theory and applied computing.
 *   🌍  I'm based in London, UK
